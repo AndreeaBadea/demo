@@ -4,3 +4,4 @@ More text
 aaaa
 
 #Diff
+This is bound to cause trouble!
